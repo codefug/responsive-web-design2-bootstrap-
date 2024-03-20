@@ -1,0 +1,96 @@
+p,
+button,
+h5.card-title {
+  margin: 0;
+}
+
+body {
+  font-family: "Noto Sans KR", sans-serif;
+}
+
+.carousel-caption {
+  inset: 0;
+}
+
+.absolute {
+  color: white;
+}
+.absolute p {
+  margin-bottom: 18px;
+  font-size: 32px;
+}
+.absolute __p--big {
+  margin-bottom: 48px;
+  font-size: 22px;
+}
+.absolute button {
+  background-color: #5900e7;
+  color: inherit;
+  font-size: 16px;
+  padding: 10px;
+  padding-inline: 30px;
+}
+
+#carouselExampleCaptions {
+  margin-bottom: 50px;
+}
+
+.carousel-image {
+  height: 600px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.img1 {
+  background-image: url("../images/guitar.jpg");
+  background-position: left center;
+}
+
+.img2 {
+  background-image: url("../images/makeup.jpg");
+  background-position: top center;
+}
+
+.img3 {
+  background-image: url("../images/cooking.jpg");
+  background-position: center center;
+}
+
+.alert {
+  margin-bottom: 16px;
+}
+
+.fig__div {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  padding-block: 10px;
+}
+
+.fig__div p {
+  font-size: 13px;
+  color: #4a4a4a;
+}
+
+.fig__div img {
+  width: 20px;
+}
+
+.card-body {
+  padding-block: 0;
+  padding-inline: 10px;
+}
+
+.card {
+  box-shadow: 0;
+}
+
+.card-title {
+  padding-top: 10px;
+  font-size: 18px;
+  color: #4a4a4a;
+}
+
+div.row {
+  margin-bottom: 70px;
+}/*# sourceMappingURL=style.css.map */
